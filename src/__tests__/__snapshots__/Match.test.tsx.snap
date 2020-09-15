@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CustomDropZone component match Matches the snapshot 1`] = `
+<div
+  className="rcd_dropZoneTarget"
+  onClick={[Function]}
+  onDragEnter={[Function]}
+  onDragLeave={[Function]}
+  onDragOver={[Function]}
+  onDrop={[Function]}
+>
+  Drop or select files to upload.
+  <div
+    className="reactCustomDropzoneFiles"
+  >
+    <div
+      className="allowedFilesContainer"
+    >
+       
+    </div>
+  </div>
+  <input
+    multiple={true}
+    onChange={[Function]}
+    style={
+      Object {
+        "display": "none",
+      }
+    }
+    type="file"
+  />
+</div>
+`;

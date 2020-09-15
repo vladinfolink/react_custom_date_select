@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TestCustomDropZone component any 1`] = `
+<Fragment>
+  <CustomDropZoneContainer
+    allowClick={true}
+    dropText=""
+    handleDrop={[Function]}
+  >
+    <Component
+      deleteFile={[Function]}
+      files={Array []}
+      renderPics={true}
+    />
+  </CustomDropZoneContainer>
+</Fragment>
+`;
